@@ -1,1 +1,1 @@
-print("kplpbok")
+print("kplpbk")
